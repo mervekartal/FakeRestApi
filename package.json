@@ -1,0 +1,23 @@
+{
+  "name": "fakerestapi",
+  "version": "1.0.0",
+  "description": "fake rest api",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "json-server --watch api/employees.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mervekartal/FakeRestApi.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "merve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mervekartal/FakeRestApi/issues"
+  },
+  "homepage": "https://github.com/mervekartal/FakeRestApi#readme"
+}
